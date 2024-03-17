@@ -14,6 +14,6 @@
 
 طراحی این 6 صفحه با LinearLayout
 
-https://www.dropbox.com/scl/fi/tv6295ein5b2av73eovj4/1.PNG?rlkey=yr6tv7c1do3vswun93hb6mtpx&dl=0
+1. https://www.dropbox.com/scl/fi/tv6295ein5b2av73eovj4/1.PNG?rlkey=yr6tv7c1do3vswun93hb6mtpx&dl=0
 
-https://www.dropbox.com/scl/fi/jpw0io4erzolc1krgw02d/2.PNG?rlkey=fv46klxh4o77w4lkv7kl2ch0o&dl=0
+2. https://www.dropbox.com/scl/fi/jpw0io4erzolc1krgw02d/2.PNG?rlkey=fv46klxh4o77w4lkv7kl2ch0o&dl=0
